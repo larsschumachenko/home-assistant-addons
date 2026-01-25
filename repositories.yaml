@@ -1,6 +1,6 @@
 name: Lars Addons
 url: https://github.com/larsschumachenko/home-assistant-addons
-maintainer: Lars Schumachenko
+maintainer: Lars Schumachenko <ls@ls.ls>
 addons:
   letsencrypt:
     repository: letsencrypt
